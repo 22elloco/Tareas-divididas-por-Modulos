@@ -20,3 +20,10 @@ h3{
 .peliculas {
     color: hotpink;
 }
+a{
+    color: rgb(33, 179, 135);
+    font-size: 25px;
+}
+a:hover{
+    background-color: rgb(0, 0, 0);
+}
