@@ -1,0 +1,29 @@
+p{
+    color: blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+h1{
+    color: brown;
+}
+h2{
+    color: coral;    
+}
+h3{
+    color: darkblue;
+    font-family: fantasy;
+    font-size: 20px;
+}
+.destacados {
+    color: gold;
+}
+.peliculas {
+    color: hotpink;
+}
+a{
+    color: rgb(33, 179, 135);
+    font-size: 25px;
+}
+a:hover{
+    background-color: rgb(0, 0, 0);
+}
